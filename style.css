@@ -1,0 +1,26 @@
+*{
+    background: rgb(243, 222, 226);
+
+}
+
+h1{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+}
+
+h1 u{
+    color: rgb(112, 9, 112);
+    background-color: yellow;
+}
+img{
+   border: 10px solid green;
+}
+p{
+    border: 10px solid rgb(19, 0, 128);
+    background-color: yellow;
+    font-family: monospace;
+}
+#img3{
+    border: 10px solid rgb(202, 6, 39);
+}
